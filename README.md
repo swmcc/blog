@@ -1,0 +1,9 @@
+# swmcc.github.com 
+
+Produced using [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap). The quickest way to start and publish your Jekyll powered blog. 100% compatible with [GitHub pages](http://pages.github.com).
+
+## Here's the dealio
+
+I have had several blogs in certain states of disarray since 2000. [Tom Preston Werner](http://tom.preston-werner.com) [talks](https://github.com/mojombo/mojombo.github.com/blob/master/README.textile) about why he uses github to host his blog. I agree since I can count at least seven iterations of blogs that I have had.
+
+Luckily I have been able to get most of what I wrote back in some shape or format. So as time allows I will go through my archives and post old enteries here. The blog on my [site](http://swm.cc) will still point to [wordress](http://swmcc.wordpress.com) until the migration is complete. I hope that will be come the start of 2013. So watch this space. I will then point blog.swm.cc to come here.
