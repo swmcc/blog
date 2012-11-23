@@ -16,5 +16,3 @@ As of 22nd November 2012 blog.swm.cc now points here. I have updated the two las
 
 - Add entries remaining enteries from 2002-2009
 - Amend enteries to have categories
-- Outside the scope of this repo but one last entry in swmcc.wordpress.com to tell people to come here.
-- Outside the scope of this repo but amend the header in swm.cc to point here for the 'Blog' link. 
