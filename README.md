@@ -14,5 +14,6 @@ As of 22nd November 2012 blog.swm.cc now points here. I have updated the two las
 
 ## TODO
 
-- Add entries remaining enteries from 2002-2009
+- Add entries remaining enteries from 2005-2009
 - Amend enteries to have categories
+- Tidy front page to be more relevant and have proper archives
