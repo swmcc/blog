@@ -1,0 +1,37 @@
+---
+type: post
+tags: work, workflow 
+published: true
+title: Annoted history of my top 20 commands
+layout: post
+status: publish
+---
+<p>Well I pulled this out of the archives. I've tried looking for past versions of this but I must have just looked at them and never blogged. Pity as it would have been nice to see what I was doing x years ago. So I'll save it here for a future of me to see.</p>
+<p>
+https://github.com/swmcc/dotfiles/blob/master/git/.aliases
+
+19:16:59 pippin: $ history | awk '{a[$2]++ } END{for(i in a){print a[i] " " i}}'|sort -rn |head -n 20
+95 cd					# Not very surprising
+85 ls					# Again not very surprising
+56 vim					# I <3 this editor
+44 fgrep				# Client's dodgy code base making me go hunting for stuff at the mo - grrrrrr
+34 git					# I write software for a living 
+27 grunt				# Starting to use this much more lately
+22 node					# Hipster alert but it pays the bills
+21 ruby       			# Again, write software for a living 
+19 python				# Am seriously falling in love with python
+19 <a href="https://github.com/swmcc/dotfiles/tree/master/git">gs</a>					# My alias for git status
+19 <a href="https://github.com/swmcc/dotfiles/tree/master/git">gco</a>					# My alias for git checkout
+18 <a href="http://jonas.nitro.dk/tig/">tig</a>					# Love this handy command for git repo info
+17 <a href="<a href="https://github.com/swmcc/dotfiles/tree/master/git">gwho</a>					# Being nosey on git commits 
+16 <a href="https://github.com/swmcc/dotfiles/blob/master/tmux/tmux_sessions">ts</a>         			# My script to show me active tmux sessions
+16 curl					# Probably testing something
+16 n					# Running a few apps on different nodes possibly?
+16 heroku				# PaaS stuffs
+15 <a href="https://github.com/swmcc/cookbook/blob/master/git/create_repo">create_repo</a>			# Suprised I use git for so much now
+12 phantomjs			# Testing the javascripts
+ 8 <a href="https://gist.github.com/swmcc/5657497">start_development</a>	# How I start my apps (as certain apps have different start and dev criteria)
+</p>
+
+<p>The biggest surprise was the abscence of ssh. In saying that I think tmux has pretty much nullified that. Also I've started to use <a href="http://heroku.com/">heroku</a> lately. Also quite suspicious in its abscene was any database shell commands. Again I am sure tmux and my start_development script has taken away the need for me to explicitly go into a db shell. Quite proud that grunt is in there - I've really started to use that for my web dev tasks lately.</p>
+<p>All in all I am pretty happy with all that.</p> 
