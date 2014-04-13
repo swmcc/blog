@@ -1,3 +1,7 @@
+# NO LONGER IN USE
+
+The blog now resides inside the [swmcc.github.io](https://github.com/swmcc/swmcc.github.io) repo.
+
 # swmcc.github.com 
 
 Produced using [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap). The quickest way to start and publish your Jekyll powered blog. 100% compatible with [GitHub pages](http://pages.github.com).
